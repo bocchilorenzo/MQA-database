@@ -18,7 +18,7 @@ MYSQL_DB=
 MYSQL_HOST=
 ```
 
-After that, simply install the requirements and run the main.py file. The first run will take a lot of time (currently there are more than 500k MQA albums and singles combined), but after that a weekly update should be enough to keep the database up-to-date.
+After that, simply install the requirements and run the `main.py` file. The first run will take a lot of time (currently there are more than 500k MQA albums and singles combined), but after that a weekly update should be enough to keep the database up-to-date.
 
 ## Disclaimer
 
